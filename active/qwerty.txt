@@ -2,7 +2,7 @@
 [up]>[down]
 [down]>[up]
 [scroll]>[shutdn]
-[intl-\]>[/]
+[intl-\]>[`]
 [kp=]>[kp=mac]
 [end]>[lalt]
 [lctrl]>[escape]
