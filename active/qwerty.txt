@@ -2,7 +2,6 @@
 [up]>[down]
 [down]>[up]
 [scroll]>[shutdn]
-[intl-\]>[`]
 [kp=]>[kp=mac]
 [end]>[lalt]
 [lctrl]>[escape]
@@ -12,4 +11,3 @@
 [kp-rctrl]>[kp-rwin]
 [rwin]>[rctrl]
 [kp-rwin]>[kp-rctrl]
-{`}>{-lshift}{`}{+lshift}
